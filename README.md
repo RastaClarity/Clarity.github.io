@@ -1,2 +1,2 @@
-# Clarity.github.io
+# RastaClarity.github.io
 Co-autora 
